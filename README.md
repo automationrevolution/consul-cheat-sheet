@@ -1,6 +1,5 @@
 # Consul Cheat Sheet
 
-Sure! Here's a comprehensive cheat sheet with 100 commands for HashiCorp Consul, along with detailed explanations and categorization. Please note that this list is not exhaustive, and there may be additional commands and options available in Consul. 
 
 ## Agent Commands
 
